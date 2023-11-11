@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "/react-gh-pages/static/js/main.e90e7085.js",
-    "static/js/948.6e850a0a.chunk.js": "/react-gh-pages/static/js/948.6e850a0a.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f855e6bc.css.map": "/react-gh-pages/static/css/main.f855e6bc.css.map",
-    "main.e90e7085.js.map": "/react-gh-pages/static/js/main.e90e7085.js.map",
-    "948.6e850a0a.chunk.js.map": "/react-gh-pages/static/js/948.6e850a0a.chunk.js.map"
+    "main.css": "/find_xtbl/static/css/main.f855e6bc.css",
+    "main.js": "/find_xtbl/static/js/main.6e5a0daa.js",
+    "static/js/948.6e850a0a.chunk.js": "/find_xtbl/static/js/948.6e850a0a.chunk.js",
+    "static/media/logo.svg": "/find_xtbl/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/find_xtbl/index.html",
+    "main.f855e6bc.css.map": "/find_xtbl/static/css/main.f855e6bc.css.map",
+    "main.6e5a0daa.js.map": "/find_xtbl/static/js/main.6e5a0daa.js.map",
+    "948.6e850a0a.chunk.js.map": "/find_xtbl/static/js/948.6e850a0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e90e7085.js"
+    "static/js/main.6e5a0daa.js"
   ]
 }
